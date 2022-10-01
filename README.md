@@ -1,0 +1,2 @@
+# DynamoDbDemo
+Spring dynamodb crud
